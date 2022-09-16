@@ -1,6 +1,6 @@
 # React Calculator
 
-## Live version: link
+## Live version: [Link](https://react-calculator-liart.vercel.app/)
 
 ## Description 
 A calculator made with React  
